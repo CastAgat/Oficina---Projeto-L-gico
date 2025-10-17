@@ -1,3 +1,3 @@
 # Oficina---Projeto-L-gico
 
-Projeto lógico de ofina de carros
+Projeto lógico de uma ofina mecânica
